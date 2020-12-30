@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CryptoAPI/static/css/main.b1e9de7a.chunk.css",
+    "main.js": "/CryptoAPI/static/js/main.0d202f13.chunk.js",
+    "main.js.map": "/CryptoAPI/static/js/main.0d202f13.chunk.js.map",
+    "runtime-main.js": "/CryptoAPI/static/js/runtime-main.5901255c.js",
+    "runtime-main.js.map": "/CryptoAPI/static/js/runtime-main.5901255c.js.map",
+    "static/js/2.6bb7da94.chunk.js": "/CryptoAPI/static/js/2.6bb7da94.chunk.js",
+    "static/js/2.6bb7da94.chunk.js.map": "/CryptoAPI/static/js/2.6bb7da94.chunk.js.map",
+    "static/js/3.195cb197.chunk.js": "/CryptoAPI/static/js/3.195cb197.chunk.js",
+    "static/js/3.195cb197.chunk.js.map": "/CryptoAPI/static/js/3.195cb197.chunk.js.map",
+    "index.html": "/CryptoAPI/index.html",
+    "static/css/main.b1e9de7a.chunk.css.map": "/CryptoAPI/static/css/main.b1e9de7a.chunk.css.map",
+    "static/js/2.6bb7da94.chunk.js.LICENSE.txt": "/CryptoAPI/static/js/2.6bb7da94.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/CryptoAPI/static/media/coin.69730ca2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5901255c.js",
+    "static/js/2.6bb7da94.chunk.js",
+    "static/css/main.b1e9de7a.chunk.css",
+    "static/js/main.0d202f13.chunk.js"
+  ]
+}
