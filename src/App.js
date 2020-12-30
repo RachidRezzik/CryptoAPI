@@ -36,7 +36,7 @@ function App() {
         <form>
           <input type="text" placeholder="Search Crypto" onChange={handleChange} />
         </form>
-        <div className="currency_row" style={{border: "none", maxWidth: "950px"}}>
+        <div className="currency_row" style={{border: "none", maxWidth: "1050px"}}>
                 <div className="currency">
                     <p style={{width:"25px"}}></p>
                     <p style={{marginRight:"auto", padding: "0px 2.5px", marginLeft: "5px"}}>Name</p>

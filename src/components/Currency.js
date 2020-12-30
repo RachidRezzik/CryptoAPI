@@ -8,13 +8,17 @@ export default function Currency(props) {
     volume_marketCap.forEach(data => {
         let length = data.toString().length
         let newData = ""
-        if (length > 6 && length < 10){
-            newData = (data / 1000000).toFixed(1)
+        if (length < 10){
+            if (length <=5) {
+                newData = (data / 1000000).toFixed(2)
+            } else{
+                newData = (data / 1000000).toFixed(1)
+            }
             newData = `${newData.toString()} M`
         } else if (length > 9 && length < 13){
             newData = (data / 1000000000).toFixed(1)
             newData = `${newData.toString()} B`
-        }
+        } 
         if (data === props.volume){
             volume = newData
         } else {
